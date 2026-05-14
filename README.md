@@ -1,7 +1,7 @@
 # AI and Machine Learning in Employee Performance Evaluation
 
-**Published:** 2025-04-19
-**Medium:** [https://medium.com/@kyle-t-jones/ai-and-machine-learning-in-employee-performance-evaluation-0e68850eb44d](https://medium.com/@kyle-t-jones/ai-and-machine-learning-in-employee-performance-evaluation-0e68850eb44d)
+Published: 2025-04-19
+Medium: [https://medium.com/@kyle-t-jones/ai-and-machine-learning-in-employee-performance-evaluation-0e68850eb44d](https://medium.com/@kyle-t-jones/ai-and-machine-learning-in-employee-performance-evaluation-0e68850eb44d)
 
 ## About
 
